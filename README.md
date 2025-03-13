@@ -1,6 +1,6 @@
 # Okta Data Import
 
-![example workflow](https://github.com/RamSailopal/Oktasync/actions/workflows/lint.yml/badge.svg)
+![example workflow](https://github.com/RamSailopal/Oktasync/actions/workflows/check.yml/badge.svg)
 
 An example of extracting data out of a csv file and then importing it into Okta using the [Okta Python SDK](https://github.com/okta/okta-sdk-python)
 
